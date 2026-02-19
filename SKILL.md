@@ -3,7 +3,7 @@ name: absurdist-escalation
 description: Take reasonable premises and push them incrementally past logic into gleeful nonsense
 license: MIT
 metadata:
-  version: 1.0.3325
+  version: 1.0.3326
   author: Seth Black
 repository: https://github.com/sethmblack/paks-skills
 keywords:
